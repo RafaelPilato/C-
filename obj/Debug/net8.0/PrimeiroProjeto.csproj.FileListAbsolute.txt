@@ -1,0 +1,14 @@
+c:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula1\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+c:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula1\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+c:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula1\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+c:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula1\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+c:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula1\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+c:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula1\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula1\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+c:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula1\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.cs
+c:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula1\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+c:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula1\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
+c:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula1\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+c:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula1\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+c:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula1\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+c:\Users\Rafael Pilato\Documents\Faculdade\ADS\3 Periodo\Top Esp Sistemas\ProjetoC#\aula1\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
